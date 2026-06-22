@@ -13,7 +13,7 @@
       "id": "usr_vendor",
       "name": "Shohagh Paribahan",
       "email": "shohagh@ticketbari.com",
-      "passwordHash": "$2b$10$vBppnQ3kMOfeyqO4u2qrFukVU0Ji3lshSHlpoAxCsn.DAEweQkhHG",
+      "passwordHash": "12345678",
       "role": "Vendor",
       "profilePic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200",
       "isFraud": false
@@ -22,7 +22,7 @@
       "id": "usr_user",
       "name": "Mr Sumon",
       "email": "infosumon15@gmail.com",
-      "passwordHash": "$2b$10$amorKN/Ikoy0x8KZUGWmmOi6Z3FnyCVZVqcp8LRdW5KDWawvgUR9i",
+      "passwordHash": "12345678",
       "role": "User",
       "profilePic": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=200",
       "isFraud": false
@@ -31,7 +31,7 @@
       "id": "usr_vendor_ena",
       "name": "Ena Transport",
       "email": "ena@ticketbari.com",
-      "passwordHash": "$2b$10$nb6xiw0/Y3y.t3pt9JYn.OihZEABGCaJYEx9XtCMsqNFNV2tiXaha",
+      "passwordHash": "12345678",
       "role": "Vendor",
       "profilePic": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&q=80&w=200",
       "isFraud": false
